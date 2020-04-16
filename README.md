@@ -23,7 +23,7 @@ Instalar databot es muy facil, tomará menos de 5 minutos
 - Ve al array "link", crea un objeto con atributo "rel" igual a "stylesheet", "href" igual a 'https://databot-api.herokuapp.com/dist_files/databot.css'
 
 ### Ejemplo
-```json
+```javascript
   script: [
       { src:'https://databot-api.herokuapp.com/dist_files/databot.js', id:'55', bot:'KNGHIZPLOLG', body: true },
     ],
